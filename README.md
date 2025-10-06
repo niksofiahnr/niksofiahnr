@@ -1,4 +1,4 @@
-0## Hi there 👋
+# 👋 Hello, I'm Nik
 
 <!--
 **niksofiahnr/niksofiahnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
